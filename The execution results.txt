@@ -1,0 +1,51 @@
+Hongshengs-MacBook-Pro:project hongshengzhang$ python fall-2018-csci-10-3-HongshengZhang.py
+What type of property?  (house,apartment) house
+What payment type?  (purchase,rental) rental
+Enter the square feet: 900
+Enter number of bedrooms: 2
+Enter number of bathrooms: one and a half
+Is the yard fenced?  (yes,no) yes
+Is there a garage (attached,detached,none) detached
+How many stories? 1
+What is the monthly rent? 1200
+What are the estimated utilities? included
+Is the property furnished?  (yes,no) no
+What type of property?  (house,apartment) apartment
+What payment type?  (purchase,rental) purchase
+Enter the square feet: 800
+Enter number of bedrooms: 3
+Enter number of bathrooms: 2
+What laundry facilities does the property have? (coin,ensuite,none) ensuite
+Does the property have a balcony (yes,no,solarium) yes
+What is the selling price? $200,000
+What are the estimated taxes? 1500
+PROPERTY DETAILS
+================
+square footage: 900
+bedrooms: 2
+bathrooms: one and a half
+
+HOUSE DETAILS
+# of stories: 1
+garage: detached
+fenced yard: yes
+
+RENTAL DETAILS
+rent: 1200
+estimated utilities: included
+furnished: no
+
+PROPERTY DETAILS
+================
+square footage: 800
+bedrooms: 3
+bathrooms: 2
+
+APARTMENT DETAILS
+laundry: ensuite
+has balcony: yes
+
+PURCHASE DETAILS
+selling price: $200,000
+estimated taxes: 1500
+
